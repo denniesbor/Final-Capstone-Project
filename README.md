@@ -1,6 +1,7 @@
 ### **Introduction**
 
 Agriculture is an important sector in a our economy. Due to population growth, and effects of climate change there is need to adopt modern technologies to improve production, and sustain the current population. In this notebook, we apply computer vision for animal behavior monitoring and activity recoqnition. The project is divided into three stages which is object detection, classification and tracking.
+![cow](https://github.com/denniesbor/Final-Capstone-Project/blob/dev/cow.png)
 
 #### **Object detection**
 
